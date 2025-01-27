@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"can_place_piece",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"can_place_piece",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
